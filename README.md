@@ -5,4 +5,9 @@ Could be used in future projects
 
 
 
-Uing OpenCv, NumPy,argparse
+Using OpenCv, NumPy,argparse
+
+
+
+
+we want to detect and track keypoints from a human face
